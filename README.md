@@ -19,5 +19,6 @@ Calculadora Basica de subredes IPv4
 
 Conversor de Monedas
 
-<img width="606" height="642" alt="imagen" src="https://github.com/user-attachments/assets/6d1c6ceb-18d3-483f-8e9f-f06f05440a2e" />
+<img width="420" height="556" alt="imagen" src="https://github.com/user-attachments/assets/28f0076b-147b-4d9d-9479-6c2e96048934" />
+
 
